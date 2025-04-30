@@ -87,7 +87,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z4kwkoFpNrfxPzBtoy8w-47" value="editer" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=light-dark(#FFFFFF,#3333FF);" vertex="1" parent="1">
-          <mxGeometry x="180" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="220" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Z4kwkoFpNrfxPzBtoy8w-60" value="0.n" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;startFill=0;endArrow=none;" edge="1" parent="1" source="Z4kwkoFpNrfxPzBtoy8w-57" target="Z4kwkoFpNrfxPzBtoy8w-19">
           <mxGeometry relative="1" as="geometry" />
